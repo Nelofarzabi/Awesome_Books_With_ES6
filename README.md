@@ -42,11 +42,7 @@
 
 ## 🚀 Live Demo <a name="live-demo"></a>
 
-- Not Available
-
-## 🚀 Description Video<a name="video-demo"></a>
-
-- Not Available
+[Live Demo ](https://nelofarzabi.github.io/Awesome_Books_With_ES6/)
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
